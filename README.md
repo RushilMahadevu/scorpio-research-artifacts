@@ -10,7 +10,6 @@ By layering inference-time rules, we achieve a **0% Direct Answer Rate** without
 ## 📁 Repository Contents
 - **Prompts**: Modular Markdown files for Domain, Pedagogical, and Socratic layers.
 - **Data**: CSV logs of the 125-response ablation study, including expert validation scores.
-- **Rubric**: The 5-point Pedagogical Quality rubric used in the blinded multi-pass protocol.
 
 ## 🚀 Usage
 To replicate the FULL stack configuration, concatenate the files in `prompts/` in the following order:
