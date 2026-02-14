@@ -1,4 +1,4 @@
-# Scorpio: Verifiable Socratic Scaffolding for Physics LLMs
+# Scorpio Research Artifacts
 
 This repository contains the research artifacts for the paper: 
 *"Scorpio: A Verifiable Framework for Enforcing Socratic Scaffolding in Physics LLMs Beyond Fine-Tuning."*
@@ -9,7 +9,7 @@ By layering inference-time rules, we achieve a **0% Direct Answer Rate** without
 
 ## 📁 Repository Contents
 - **Prompts**: Modular Markdown files for Domain, Pedagogical, and Socratic layers.
-- **Data**: CSV logs of the 125-response ablation study, including expert validation scores.
+- **Data**: Test battery & results log of the 125-response ablation study.
 
 ## 🚀 Usage
 To replicate the FULL stack configuration, concatenate the files in `prompts/` in the following order:
