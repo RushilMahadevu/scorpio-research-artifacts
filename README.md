@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21924456.svg)](https://doi.org/10.5281/zenodo.21924456)
+
 # Scorpio Research Artifacts for [Scorpio Main Repository](https://github.com/RushilMahadevu/scorpio)
 
 This repository contains the research artifacts for the paper: 
