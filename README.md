@@ -1,4 +1,4 @@
-# Scorpio Research Artifacts
+# Scorpio Research Artifacts for [Scorpio Main Repository](https://github.com/RushilMahadevu/scorpio)
 
 This repository contains the research artifacts for the paper: 
 *"Scorpio: A Verifiable Framework for Enforcing Socratic Scaffolding in Physics LLMs Beyond Fine-Tuning."*
